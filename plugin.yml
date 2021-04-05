@@ -1,0 +1,21 @@
+name: LZEssentials
+main: com.gmail.cdaix10.LZEssentials
+version: 0.4
+api-version: 1.13
+commands:
+   spawn:
+      description: Fast travel to Spawn.
+      usage: /<command>
+      permission: lzessentials.spawn
+   setspawn:
+      description: Move Spawn to your location.
+      usage: /<command>
+      permission: lzessentials.setspawn
+   fly:
+      description: Pray to the gods for the ability of flight.
+      usage: /<command>
+      permission: lzessentials.fly
+   feed:
+      description: Pray to the gods to satiate your hunger.
+      usage: /<command>
+      permission: lzessentials.feed
